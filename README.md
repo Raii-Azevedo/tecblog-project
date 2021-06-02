@@ -1,4 +1,4 @@
-![TecBlog]()
+![TecBlog](https://github.com/Raii-Azevedo/tecblog-project/blob/master/TecBlog.gif)
  
 ## TecBlog - Projeto
  - TecBlog é um protótipo de blog online.
