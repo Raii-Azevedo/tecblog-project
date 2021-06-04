@@ -1,8 +1,9 @@
 ![TecBlog](https://github.com/Raii-Azevedo/tecblog-project/blob/master/TecBlog.gif)
  
 ## TecBlog - Projeto
- - TecBlog é um protótipo de blog online.
- - TecBlog is an online blog prototype.
+ - TecBlog é um protótipo de blog online. Onde utilizei HTML5 e CSS3 para compor o template. O preojeto é avaliado como de nível basico/intermediário. Nada foi feito para compor o backend.
+ - TecBlog is an online blog prototype. I used HTML5 and CSS3 to compose the template. The project is assessed as a basic/intermediate level. Nothing was done to compose the backend.
+
 
 ## Tecnologia
  - HTML5
